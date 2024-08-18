@@ -5,6 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+}
+
+body>div{
+  background: url("https://www.hdwallpapers.in/download/hokage_naruto_uzumaki_hd_naruto-HD.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-attachment: fixed;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  overflow: scroll;
 }
 
 code {
